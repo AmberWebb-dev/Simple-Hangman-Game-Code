@@ -1,0 +1,10 @@
+Program name:  Program4.cpp
+Author:  Amber Webb
+Date:  12/02/2022
+
+Built and compiled using XCODE.
+
+How to run:
+	Open main.cpp, Hangman.cpp, HangmanImp.cpp, and WrongGuesses.h
+	Select compile and run
+	Follow the prompts on the console and fill out proper information to play the game (Note: program starts out with no pre-filled words, they must be filled by user first). This program is written to have two users for best experience.
